@@ -1,1 +1,4 @@
 Enum status in Container model.
+
+Remove default value in Latitude and Longitude and Volume fields in Container Model
+Remove default value in route_list field in Route Model
